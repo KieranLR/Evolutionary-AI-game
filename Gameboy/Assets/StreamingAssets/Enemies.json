@@ -1,0 +1,8 @@
+{
+	"id": 0,
+	"name": "Zombie",
+	"moveSpeed": 6,
+	"distanceThreshold": 10,
+	"attackThreshold": 5, 
+	"Stats": [3, 3, 3, 3, 3, 3, 100]
+}

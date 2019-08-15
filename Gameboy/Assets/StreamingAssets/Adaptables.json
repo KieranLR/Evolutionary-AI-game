@@ -1,0 +1,9 @@
+{
+	"adaptables":[{
+		"name": "Grind",
+		"condition": "ConsecutiveFloorClear",
+		"cSymbol": ">=",
+		"cValue": 3,
+		"response": "If all you care about is getting stronger, surely you won't mind some more target practice"
+	}]
+}

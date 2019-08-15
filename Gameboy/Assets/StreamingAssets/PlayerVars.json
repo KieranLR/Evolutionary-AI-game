@@ -1,0 +1,9 @@
+{
+	"playervars":[{
+		"name": "ConsecutiveFloorClear",
+		"value": 3,
+		"adaptables":[
+			"Grind"
+		]
+	}]
+}

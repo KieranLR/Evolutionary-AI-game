@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b1caebf4120495c952b934d798357e, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  abilityName: Fireball
+  abilityDescription: Hurl a fireball that pierces through enemies
+  icon: {fileID: 0}
+  baseCooldown: 1
+  damageMultiplier: 1
+  attackHitbox: {fileID: 0}
+  animation: 5
+  projectile: {fileID: 114115512998501346, guid: e15dbcece878e460d9b8cd4b42a32b11,
+    type: 2}
